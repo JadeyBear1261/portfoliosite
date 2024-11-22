@@ -22,8 +22,8 @@ body, html {
 
 /* Second image (Portfolio) */
 .bgimg-2 {
-  background-image: url("ParkWide.jpg");
-  min-height: 400px;
+  background-image: url("images/Render_Gate.jpg");
+  min-height: 500px;
   }
 
 /* Third image (Contact) */
